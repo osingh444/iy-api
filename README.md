@@ -1,1 +1,1 @@
-api for user accounts and posting content for iy project
+api for user accounts and content for iy project
